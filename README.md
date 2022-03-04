@@ -11,7 +11,7 @@ Prints out the following for a contiguous range of numbers:
 * report at the end of the program showing how many times each `word` was substituted
 
 
-There is also [Java version](https://github.com/PauloPortugal/real-fizzbuzz-java)
+There is also a [Java version](https://github.com/PauloPortugal/real-fizzbuzz-java)
 and a [Clojure version](https://github.com/PauloPortugal/real-fizzbuzz-clojure)
 
 ## Example
